@@ -70,4 +70,4 @@ The interactive Power BI dashboard is divided into the following sections:
 * **GitHub** – Repository management and project documentation
 
 
-Just tell me 😊
+
