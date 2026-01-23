@@ -8,7 +8,7 @@ Natural disasters occur frequently across the United States and can cause widesp
 
 ## 2. Dataset Description
 
-This project is based on historical disaster declaration data sourced from FEMA (Federal Emergency Management Agency)**. The dataset captures detailed information about declared natural disasters across multiple states and years, allowing for geographical and time-based analysis.
+This project is based on historical disaster declaration data sourced from FEMA (Federal Emergency Management Agency). The dataset captures detailed information about declared natural disasters across multiple states and years, allowing for geographical and time-based analysis.
 
 ### Dataset includes:
 
